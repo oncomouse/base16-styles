@@ -1,0 +1,15 @@
+{
+  "name": "base16-build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mustache": "^3.0.1"
+  },
+  "dependencies": {
+    "fast-glob": "^3.0.4",
+    "isomorphic-fetch": "^2.2.1",
+    "js-yaml": "^3.13.1",
+    "simple-git": "^1.124.0"
+  }
+}
